@@ -137,29 +137,27 @@ Hybrid Infrastructure Platform
 
 ## 🖥️ System Administration
 
+<h3 align="left">🖥️ System Administration</h3>
+
 <p>
 
-<a href="https://www.redhat.com">
-
-<img src="https://img.shields.io/badge/Red_Hat_Linux-EE0000?style=for-the-badge&logo=redhat"/>
-
+<a href="https://www.redhat.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=redhat" height="55"/>
 </a>
 
-<a href="https://www.akamai.com/products/guardicore-segmentation">
-
-<img src="https://img.shields.io/badge/Guardicore-0052CC?style=for-the-badge"/>
-
+<a href="https://www.linux.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linux" height="55"/>
 </a>
 
-<a href="https://www.ibm.com/products/websphere-application-server">
+<a href="https://www.ibm.com/products/websphere-application-server" target="_blank">
+<img src="https://cdn.simpleicons.org/ibm/052FAD" height="55"/>
+</a>
 
-<img src="https://img.shields.io/badge/IBM_WebSphere-052FAD?style=for-the-badge&logo=ibm"/>
-
+<a href="https://www.akamai.com/products/guardicore-segmentation" target="_blank">
+<img src="https://cdn.simpleicons.org/akamai/0096D6" height="55"/>
 </a>
 
 </p>
-
----
 
 ## 🤖 AI
 
