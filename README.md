@@ -161,31 +161,27 @@ Hybrid Infrastructure Platform
 
 ## 🤖 AI
 
+<h3 align="left">🤖 AI & LLM</h3>
+
 <p>
 
-<a href="https://lovable.dev">
-
-<img src="https://img.shields.io/badge/Lovable-FF4D5A?style=for-the-badge"/>
-
+<a href="https://azure.microsoft.com/products/ai-services/openai-service" target="_blank">
+<img src="https://cdn.simpleicons.org/openai/412991" height="55"/>
 </a>
 
-<a href="https://azure.microsoft.com/products/ai-services/openai-service">
-
-<img src="https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge"/>
-
+<a href="https://huggingface.co/" target="_blank">
+<img src="https://skillicons.dev/icons?i=huggingface" height="55"/>
 </a>
 
-<a href="https://huggingface.co">
-
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface"/>
-
+<a href="https://lovable.dev/" target="_blank">
+<img src="https://cdn.simpleicons.org/love/FF4D5A" height="55"/>
 </a>
 
-<img src="https://img.shields.io/badge/RAG-Generative_AI-blue?style=for-the-badge"/>
+<a href="https://en.wikipedia.org/wiki/Retrieval-augmented_generation" target="_blank">
+<img src="https://img.shields.io/badge/RAG-4285F4?style=for-the-badge"/>
+</a>
 
 </p>
-
----
 
 # 🏆 Certifications
 
