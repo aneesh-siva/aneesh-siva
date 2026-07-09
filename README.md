@@ -89,17 +89,11 @@ Hybrid Infrastructure Platform
 
 ## ☁️ Cloud
 
-<p>
-
-<a href="https://azure.microsoft.com">
-
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure"/>
-
+<p align="center">
+<a href="https://azure.microsoft.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=azure" height="55"/>
 </a>
-
 </p>
-
----
 
 ## ⚙️ DevOps
 
@@ -235,59 +229,4 @@ Hybrid Infrastructure Platform
 - 📊 Observability & Monitoring
 
 
-# 📊 GitHub Stats
 
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=aneesh-siva&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aneesh-siva&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aneesh-siva&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aneesh-siva&theme=tokyo-night"/>
-
-</p>
-
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=aneesh-siva&theme=tokyonight&row=1&column=7"/>
-
-</p>
-
-
-# 📑 GitHub Summary
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aneesh-siva&theme=tokyonight"/>
-
-</p>
-
-
-# ⚡ Productivity
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aneesh-siva&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aneesh-siva&theme=tokyonight"/>
-
-</p>
