@@ -212,3 +212,82 @@ Hybrid Infrastructure Platform
 - Data Analytics – NoviTech
 - Analysing & Visualising Data with Power BI – TechTip24
 - Product Management – Jobaaj Learning
+
+
+# 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🚀 **End-to-End DevOps CI/CD Pipeline** | Designed and implemented a complete CI/CD pipeline with infrastructure provisioning, containerization, deployment automation, and orchestration. | Jenkins • Docker • Kubernetes • Terraform |
+| 🤖 **DevOps Automation with Ansible & Docker** | Automated application deployment and server configuration using Ansible playbooks with Docker-based application deployment. | Ansible • Docker • Linux |
+| ☸️ **Enterprise 3-Tier Kubernetes Platform** | Built a production-style three-tier application on Kubernetes with monitoring, observability, and CI/CD integration. | Kubernetes • Docker • Prometheus • Grafana • Jenkins |
+| 📦 **3-Tier Application on Kubernetes (Minikube)** | Containerized and deployed a three-tier application locally using Minikube, Ingress, and Kubernetes networking. | Docker • Kubernetes • Minikube |
+| ☁️ **Azure Kubernetes Service (AKS) Deployment** | Designed and deployed a two-tier Flask & MySQL application on Azure Kubernetes Service following cloud-native DevOps practices. | Azure • AKS • Docker • Flask • MySQL |
+
+
+# 🌱 Currently Exploring
+
+- ☁️ Cloud Platform Engineering
+- 🚀 Infrastructure Automation
+- ☸️ Kubernetes Ecosystem
+- 🤖 AI for IT Operations
+- 🔐 DevSecOps Practices
+- 📊 Observability & Monitoring
+
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=aneesh-siva&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aneesh-siva&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aneesh-siva&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aneesh-siva&theme=tokyo-night"/>
+
+</p>
+
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=aneesh-siva&theme=tokyonight&row=1&column=7"/>
+
+</p>
+
+
+# 📑 GitHub Summary
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aneesh-siva&theme=tokyonight"/>
+
+</p>
+
+
+# ⚡ Productivity
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aneesh-siva&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aneesh-siva&theme=tokyonight"/>
+
+</p>
