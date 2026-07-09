@@ -93,165 +93,53 @@ Hybrid Infrastructure Platform
 
 ### ☁️ Cloud
 
-<p align="center">
-<a href="https://azure.microsoft.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=azure" height="50"/>
-</a>
-</p>
-
-</td>
-
-<td valign="top" width="25%">
+[![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
 
 ### ⚙️ DevOps
 
-<p align="center">
+[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)](https://jenkins.io)
 
-<a href="https://www.jenkins.io/">
-<img src="https://skillicons.dev/icons?i=jenkins" height="50"/>
-</a>
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io)
 
-<a href="https://kubernetes.io/">
-<img src="https://skillicons.dev/icons?i=kubernetes" height="50"/>
-</a>
+[![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://terraform.io)
 
-<a href="https://developer.hashicorp.com/terraform">
-<img src="https://skillicons.dev/icons?i=terraform" height="50"/>
-</a>
+[![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)](https://helm.sh)
 
-<a href="https://helm.sh/">
-<img src="https://cdn.simpleicons.org/helm/0F1689" height="50"/>
-</a>
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com)
 
-<a href="https://azure.microsoft.com/products/devops">
-<img src="https://cdn.simpleicons.org/azuredevops/0078D7" height="50"/>
-</a>
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 
-<a href="https://www.docker.com/">
-<img src="https://skillicons.dev/icons?i=docker" height="50"/>
-</a>
+[![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)](https://openshift.com)
 
-<a href="https://git-scm.com/">
-<img src="https://skillicons.dev/icons?i=git" height="50"/>
-</a>
-
-<a href="https://www.redhat.com/en/technologies/cloud-computing/openshift">
-<img src="https://cdn.simpleicons.org/redhatopenshift/EE0000" height="50"/>
-</a>
-
-<a href="https://www.dynatrace.com/">
-<img src="https://cdn.simpleicons.org/dynatrace/1496FF" height="50"/>
-</a>
-
-<a href="https://www.ansible.com/">
-<img src="https://skillicons.dev/icons?i=ansible" height="50"/>
-</a>
-
-</p>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td valign="top">
+[![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)](https://ansible.com)
 
 ### 💻 System Administration
 
-<p align="center">
+[![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)](https://redhat.com)
 
-<a href="https://www.redhat.com/">
-<img src="https://skillicons.dev/icons?i=redhat" height="50"/>
-</a>
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://kernel.org)
 
-<a href="https://kernel.org/">
-<img src="https://skillicons.dev/icons?i=linux" height="50"/>
-</a>
-
-<a href="https://www.ibm.com/products/websphere-application-server">
-<img src="https://cdn.simpleicons.org/ibm/052FAD" height="50"/>
-</a>
-
-<a href="https://www.akamai.com/products/guardicore-segmentation">
-<img src="https://cdn.simpleicons.org/akamai/0096D6" height="50"/>
-</a>
-
-</p>
-
-</td>
-
-<td valign="top">
+[![IBM WebSphere](https://img.shields.io/badge/IBM%20WebSphere-052FAD?style=for-the-badge&logo=ibm&logoColor=white)](https://www.ibm.com/products/websphere-application-server)
 
 ### 🤖 AI & Programming
 
-<p align="center">
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 
-<a href="https://azure.microsoft.com/products/ai-services/openai-service">
-<img src="https://cdn.simpleicons.org/openai/412991" height="50"/>
-</a>
+[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com)
 
-<a href="https://huggingface.co/">
-<img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="50"/>
-</a>
+[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com)
 
-<a href="https://www.python.org/">
-<img src="https://skillicons.dev/icons?i=python" height="50"/>
-</a>
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com)
 
-<a href="https://code.visualstudio.com/">
-<img src="https://skillicons.dev/icons?i=vscode" height="50"/>
-</a>
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://gnu.org/software/bash)
 
-<a href="https://www.gnu.org/software/bash/">
-<img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="50"/>
-</a>
-
-<a href="https://learn.microsoft.com/powershell/">
-<img src="https://cdn.simpleicons.org/powershell/5391FE" height="50"/>
-</a>
-
-<a href="https://flask.palletsprojects.com/">
-<img src="https://skillicons.dev/icons?i=flask" height="50"/>
-</a>
-
-<a href="https://www.mysql.com/">
-<img src="https://skillicons.dev/icons?i=mysql" height="50"/>
-</a>
-
-</p>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td colspan="2">
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co)
 
 ### 📊 Monitoring & Observability
 
-<p align="center">
+[![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)](https://grafana.com)
 
-<a href="https://grafana.com/">
-<img src="https://skillicons.dev/icons?i=grafana" height="50"/>
-</a>
-
-<a href="https://prometheus.io/">
-<img src="https://skillicons.dev/icons?i=prometheus" height="50"/>
-</a>
-
-<a href="https://www.dynatrace.com/">
-<img src="https://cdn.simpleicons.org/dynatrace/1496FF" height="50"/>
-</a>
-
-</p>
-
-</td>
-
-</tr>
-
-</table>
+[![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)](https://prometheus.io)
 
 # 🏆 Certifications
 
