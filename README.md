@@ -85,103 +85,173 @@ Hybrid Infrastructure Platform
 
 ---
 
-# 🚀 Tech Stack
+# 💻 Tech Stack
 
-## ☁️ Cloud
+<table>
+<tr>
+<td valign="top" width="25%">
+
+### ☁️ Cloud
 
 <p align="center">
 <a href="https://azure.microsoft.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=azure" height="55"/>
+<img src="https://skillicons.dev/icons?i=azure" height="50"/>
 </a>
 </p>
 
-## ⚙️ DevOps
+</td>
 
-<h3 align="left">⚙️ DevOps</h3>
+<td valign="top" width="25%">
 
-<p>
+### ⚙️ DevOps
 
-<a href="https://www.jenkins.io/" target="_blank">
-<img src="https://skillicons.dev/icons?i=jenkins" height="55"/>
+<p align="center">
+
+<a href="https://www.jenkins.io/">
+<img src="https://skillicons.dev/icons?i=jenkins" height="50"/>
 </a>
 
-<a href="https://kubernetes.io/" target="_blank">
-<img src="https://skillicons.dev/icons?i=kubernetes" height="55"/>
+<a href="https://kubernetes.io/">
+<img src="https://skillicons.dev/icons?i=kubernetes" height="50"/>
 </a>
 
-<a href="https://developer.hashicorp.com/terraform" target="_blank">
-<img src="https://skillicons.dev/icons?i=terraform" height="55"/>
+<a href="https://developer.hashicorp.com/terraform">
+<img src="https://skillicons.dev/icons?i=terraform" height="50"/>
 </a>
 
-<a href="https://helm.sh/" target="_blank">
-<img src="https://skillicons.dev/icons?i=helm" height="55"/>
+<a href="https://helm.sh/">
+<img src="https://cdn.simpleicons.org/helm/0F1689" height="50"/>
 </a>
 
-<a href="https://azure.microsoft.com/products/devops" target="_blank">
-<img src="https://skillicons.dev/icons?i=azuredevops" height="55"/>
+<a href="https://azure.microsoft.com/products/devops">
+<img src="https://cdn.simpleicons.org/azuredevops/0078D7" height="50"/>
 </a>
 
-<a href="https://www.redhat.com/en/technologies/cloud-computing/openshift" target="_blank">
-<img src="https://skillicons.dev/icons?i=openshift" height="55"/>
+<a href="https://www.docker.com/">
+<img src="https://skillicons.dev/icons?i=docker" height="50"/>
 </a>
 
-<a href="https://www.docker.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=docker" height="55"/>
+<a href="https://git-scm.com/">
+<img src="https://skillicons.dev/icons?i=git" height="50"/>
 </a>
 
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=git" height="55"/>
+<a href="https://www.redhat.com/en/technologies/cloud-computing/openshift">
+<img src="https://cdn.simpleicons.org/redhatopenshift/EE0000" height="50"/>
 </a>
 
-</p>
-
-## 🖥️ System Administration
-
-<h3 align="left">🖥️ System Administration</h3>
-
-<p>
-
-<a href="https://www.redhat.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=redhat" height="55"/>
+<a href="https://www.dynatrace.com/">
+<img src="https://cdn.simpleicons.org/dynatrace/1496FF" height="50"/>
 </a>
 
-<a href="https://www.linux.org/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linux" height="55"/>
-</a>
-
-<a href="https://www.ibm.com/products/websphere-application-server" target="_blank">
-<img src="https://cdn.simpleicons.org/ibm/052FAD" height="55"/>
-</a>
-
-<a href="https://www.akamai.com/products/guardicore-segmentation" target="_blank">
-<img src="https://cdn.simpleicons.org/akamai/0096D6" height="55"/>
+<a href="https://www.ansible.com/">
+<img src="https://skillicons.dev/icons?i=ansible" height="50"/>
 </a>
 
 </p>
 
-## 🤖 AI
+</td>
 
-<h3 align="left">🤖 AI & LLM</h3>
+</tr>
 
-<p>
+<tr>
 
-<a href="https://azure.microsoft.com/products/ai-services/openai-service" target="_blank">
-<img src="https://cdn.simpleicons.org/openai/412991" height="55"/>
+<td valign="top">
+
+### 💻 System Administration
+
+<p align="center">
+
+<a href="https://www.redhat.com/">
+<img src="https://skillicons.dev/icons?i=redhat" height="50"/>
 </a>
 
-<a href="https://huggingface.co/" target="_blank">
-<img src="https://skillicons.dev/icons?i=huggingface" height="55"/>
+<a href="https://kernel.org/">
+<img src="https://skillicons.dev/icons?i=linux" height="50"/>
 </a>
 
-<a href="https://lovable.dev/" target="_blank">
-<img src="https://cdn.simpleicons.org/love/FF4D5A" height="55"/>
+<a href="https://www.ibm.com/products/websphere-application-server">
+<img src="https://cdn.simpleicons.org/ibm/052FAD" height="50"/>
 </a>
 
-<a href="https://en.wikipedia.org/wiki/Retrieval-augmented_generation" target="_blank">
-<img src="https://img.shields.io/badge/RAG-4285F4?style=for-the-badge"/>
+<a href="https://www.akamai.com/products/guardicore-segmentation">
+<img src="https://cdn.simpleicons.org/akamai/0096D6" height="50"/>
 </a>
 
 </p>
+
+</td>
+
+<td valign="top">
+
+### 🤖 AI & Programming
+
+<p align="center">
+
+<a href="https://azure.microsoft.com/products/ai-services/openai-service">
+<img src="https://cdn.simpleicons.org/openai/412991" height="50"/>
+</a>
+
+<a href="https://huggingface.co/">
+<img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="50"/>
+</a>
+
+<a href="https://www.python.org/">
+<img src="https://skillicons.dev/icons?i=python" height="50"/>
+</a>
+
+<a href="https://code.visualstudio.com/">
+<img src="https://skillicons.dev/icons?i=vscode" height="50"/>
+</a>
+
+<a href="https://www.gnu.org/software/bash/">
+<img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="50"/>
+</a>
+
+<a href="https://learn.microsoft.com/powershell/">
+<img src="https://cdn.simpleicons.org/powershell/5391FE" height="50"/>
+</a>
+
+<a href="https://flask.palletsprojects.com/">
+<img src="https://skillicons.dev/icons?i=flask" height="50"/>
+</a>
+
+<a href="https://www.mysql.com/">
+<img src="https://skillicons.dev/icons?i=mysql" height="50"/>
+</a>
+
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td colspan="2">
+
+### 📊 Monitoring & Observability
+
+<p align="center">
+
+<a href="https://grafana.com/">
+<img src="https://skillicons.dev/icons?i=grafana" height="50"/>
+</a>
+
+<a href="https://prometheus.io/">
+<img src="https://skillicons.dev/icons?i=prometheus" height="50"/>
+</a>
+
+<a href="https://www.dynatrace.com/">
+<img src="https://cdn.simpleicons.org/dynatrace/1496FF" height="50"/>
+</a>
+
+</p>
+
+</td>
+
+</tr>
+
+</table>
 
 # 🏆 Certifications
 
