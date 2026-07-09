@@ -97,53 +97,43 @@ Hybrid Infrastructure Platform
 
 ## ⚙️ DevOps
 
+<h3 align="left">⚙️ DevOps</h3>
+
 <p>
 
-<a href="https://www.jenkins.io">
-
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins"/>
-
+<a href="https://www.jenkins.io/" target="_blank">
+<img src="https://skillicons.dev/icons?i=jenkins" height="55"/>
 </a>
 
-<a href="https://kubernetes.io">
-
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes"/>
-
+<a href="https://kubernetes.io/" target="_blank">
+<img src="https://skillicons.dev/icons?i=kubernetes" height="55"/>
 </a>
 
-<a href="https://helm.sh">
-
-<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm"/>
-
+<a href="https://developer.hashicorp.com/terraform" target="_blank">
+<img src="https://skillicons.dev/icons?i=terraform" height="55"/>
 </a>
 
-<a href="https://developer.hashicorp.com/terraform">
-
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform"/>
-
+<a href="https://helm.sh/" target="_blank">
+<img src="https://skillicons.dev/icons?i=helm" height="55"/>
 </a>
 
-<a href="https://azure.microsoft.com/products/devops">
-
-<img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops"/>
-
+<a href="https://azure.microsoft.com/products/devops" target="_blank">
+<img src="https://skillicons.dev/icons?i=azuredevops" height="55"/>
 </a>
 
-<a href="https://www.dynatrace.com">
-
-<img src="https://img.shields.io/badge/Dynatrace-1496FF?style=for-the-badge&logo=dynatrace"/>
-
+<a href="https://www.redhat.com/en/technologies/cloud-computing/openshift" target="_blank">
+<img src="https://skillicons.dev/icons?i=openshift" height="55"/>
 </a>
 
-<a href="https://www.redhat.com/en/technologies/cloud-computing/openshift">
+<a href="https://www.docker.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=docker" height="55"/>
+</a>
 
-<img src="https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift"/>
-
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=git" height="55"/>
 </a>
 
 </p>
-
----
 
 ## 🖥️ System Administration
 
