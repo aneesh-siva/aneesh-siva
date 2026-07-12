@@ -116,9 +116,7 @@ Hybrid Infrastructure Platform
 <img src="https://skillicons.dev/icons?i=gitlab" width="65"/><br>GitLab
 </a>
 </td>
-</tr>
 
-<tr>
 <td align="center">
 <a href="https://www.redhat.com/en/technologies/cloud-computing/openshift">
 <img src="https://cdn.simpleicons.org/redhatopenshift/EE0000" width="65"/><br>OpenShift
