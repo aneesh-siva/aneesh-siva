@@ -136,7 +136,6 @@ Hybrid Infrastructure Platform
 </td>
 
 <td></td>
-</tr>
 </table>
 
 ---
@@ -204,6 +203,10 @@ Hybrid Infrastructure Platform
 
 ## 📈 Monitoring
 
+<table>
+<tr>
+
+  
 <td align="center" width="120">
 <a href="https://dynatrace.com">
 <img src="https://cdn.simpleicons.org/dynatrace/1496FF" width="65"/><br>Dynatrace
