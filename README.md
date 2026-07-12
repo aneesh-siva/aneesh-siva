@@ -87,59 +87,99 @@ Hybrid Infrastructure Platform
 
 # 💻 Tech Stack
 
-<table>
-<tr>
-<td valign="top" width="25%">
+# 💻 Tech Stack
 
-### ☁️ Cloud
+## ⚙️ DevOps
 
-[![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
+<p align="left">
+<a href="https://www.jenkins.io/"><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/></a>
+<a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/></a>
+<a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white"/></a>
+<a href="https://about.gitlab.com/"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=GitLab&logoColor=white"/></a>
+<a href="https://www.redhat.com/en/technologies/cloud-computing/openshift"><img src="https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=RedHatOpenShift&logoColor=white"/></a>
+<a href="https://www.ansible.com/"><img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=Ansible&logoColor=white"/></a>
+<a href="https://www.terraform.io/"><img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=Terraform&logoColor=white"/></a>
+</p>
 
-### ⚙️ DevOps
+---
 
-[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)](https://jenkins.io)
+## ☁️ Cloud
 
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io)
+<p align="left">
+<a href="https://azure.microsoft.com/">
+<img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=MicrosoftAzure&logoColor=white"/>
+</a>
+</p>
 
-[![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://terraform.io)
+---
 
-[![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)](https://helm.sh)
+## 🐍 Programming & Scripting
 
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com)
+<p align="left">
+<a href="https://www.python.org/">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
+</a>
 
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
+<a href="https://www.gnu.org/software/bash/">
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white"/>
+</a>
+</p>
 
-[![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)](https://openshift.com)
+---
 
-[![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)](https://ansible.com)
+## 🖥️ System Administration
 
-### 💻 System Administration
+<p align="left">
 
-[![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)](https://redhat.com)
+<a href="https://www.ibm.com/products/websphere-application-server">
+<img src="https://img.shields.io/badge/IBM%20WebSphere-052FAD?style=for-the-badge&logo=IBM&logoColor=white"/>
+</a>
 
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://kernel.org)
+<a href="https://www.akamai.com/">
+<img src="https://img.shields.io/badge/Akamai-0096D6?style=for-the-badge&logo=Akamai&logoColor=white"/>
+</a>
 
-[![IBM WebSphere](https://img.shields.io/badge/IBM%20WebSphere-052FAD?style=for-the-badge&logo=ibm&logoColor=white)](https://www.ibm.com/products/websphere-application-server)
+<a href="https://www.linux.org/">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black"/>
+</a>
 
-### 🤖 AI & Programming
+</p>
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+---
 
-[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com)
+## 🤖 AI Tools
 
-[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com)
+<p align="left">
 
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com)
+<a href="https://lovable.dev/">
+<img src="https://img.shields.io/badge/Lovable-FF4D5A?style=for-the-badge"/>
+</a>
 
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://gnu.org/software/bash)
+<a href="https://huggingface.co/">
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=HuggingFace&logoColor=black"/>
+</a>
 
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co)
+</p>
 
-### 📊 Monitoring & Observability
+---
 
-[![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)](https://grafana.com)
+## 📈 Monitoring
 
-[![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)](https://prometheus.io)
+<p align="left">
+
+<a href="https://www.dynatrace.com/">
+<img src="https://img.shields.io/badge/Dynatrace-1496FF?style=for-the-badge&logo=Dynatrace&logoColor=white"/>
+</a>
+
+<a href="https://prometheus.io/">
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white"/>
+</a>
+
+<a href="https://grafana.com/">
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=Grafana&logoColor=white"/>
+</a>
+
+</p>
 
 # 🏆 Certifications
 
