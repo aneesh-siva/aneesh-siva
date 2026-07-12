@@ -265,9 +265,7 @@ Hybrid Infrastructure Platform
 </div>
 
 
-
-
-
+---
 
 # 🏆 Certifications
 
@@ -278,8 +276,7 @@ Hybrid Infrastructure Platform
 - Product Management – Jobaaj Learning
 
 
-
-
+---
 
 
 
@@ -298,6 +295,7 @@ Hybrid Infrastructure Platform
 | 📦 **3-Tier Application on Kubernetes (Minikube)** | Containerized and deployed a three-tier application locally using Minikube, Ingress, and Kubernetes networking. | Docker • Kubernetes • Minikube |
 | ☁️ **Azure Kubernetes Service (AKS) Deployment** | Designed and deployed a two-tier Flask & MySQL application on Azure Kubernetes Service following cloud-native DevOps practices. | Azure • AKS • Docker • Flask • MySQL |
 
+---
 
 
 ## 🚀 Featured Repositories
@@ -307,6 +305,7 @@ Hybrid Infrastructure Platform
 3. https://github.com/aneesh-siva/3-tier-kubernetes-project-
 4. https://github.com/aneesh-siva/two-tier-flask-app
 
+---
 
 
 # 🌱 Currently Exploring
