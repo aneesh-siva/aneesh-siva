@@ -146,7 +146,7 @@ Hybrid Infrastructure Platform
 </a>
 </td>
 
-<td></td>
+
 </table>
 
 </div>
