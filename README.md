@@ -302,31 +302,10 @@ Hybrid Infrastructure Platform
 
 ## 🚀 Featured Repositories
 
-<div align="center">
-
-<a href="https://github.com/aneesh-siva/3-tier-kubernetes-project-">
-<img height="170" src="https://github-readme-stats.vercel.app/api/pin/?username=aneesh-siva&repo=3-tier-kubernetes-project-&theme=tokyonight&border_color=58A6FF&border_radius=12" />
-</a>
-
-<a href="https://github.com/aneesh-siva/monitoring-app-devops-">
-<img height="170" src="https://github-readme-stats.vercel.app/api/pin/?username=aneesh-siva&repo=monitoring-app-devops-&theme=tokyonight&border_color=58A6FF&border_radius=12" />
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<a href="https://github.com/aneesh-siva/ansible-docker-automation">
-<img height="170" src="https://github-readme-stats.vercel.app/api/pin/?username=aneesh-siva&repo=ansible-docker-automation&theme=tokyonight&border_color=58A6FF&border_radius=12" />
-</a>
-
-<a href="https://github.com/aneesh-siva/two-tier-flask-app">
-<img height="170" src="https://github-readme-stats.vercel.app/api/pin/?username=aneesh-siva&repo=two-tier-flask-app&theme=tokyonight&border_color=58A6FF&border_radius=12" />
-</a>
-
-</div>
+1. https://github.com/aneesh-siva/monitoring-app-devops-
+2. https://github.com/aneesh-siva/ansible-docker-automation
+3. https://github.com/aneesh-siva/3-tier-kubernetes-project-
+4. https://github.com/aneesh-siva/two-tier-flask-app
 
 
 
