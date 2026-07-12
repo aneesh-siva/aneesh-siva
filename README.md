@@ -1,11 +1,3 @@
-<!-- ===================================================== -->
-<!--                ANEESH SIVA GITHUB PROFILE             -->
-<!-- ===================================================== -->
-
-<p align="center">
-<img width="100%" src="assets/banner.png">
-</p>
-
 <h1 align="center">Hi 👋, I'm Aneesh Siva</h1>
 
 <h3 align="center">
@@ -14,7 +6,6 @@ Cloud & Platform Engineer Enthusiast | DevOps | Azure | AI for IT Operations
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=800&center=true&vCenter=true&width=900&lines=Cloud+Engineer;Platform+Engineering+Enthusiast;Azure+Cloud;Kubernetes;Infrastructure+Automation;DevOps+Engineer;Always+Learning+Something+New"/>
 
 </p>
 
