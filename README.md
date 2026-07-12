@@ -11,7 +11,7 @@ Cloud & Platform Engineer Enthusiast | DevOps | Azure | AI for IT Operations
 
 ---
 
-# 🌐 Connect With Me
+
 
 ## 🌐 Connect with Me
 
@@ -265,6 +265,10 @@ Hybrid Infrastructure Platform
 </div>
 
 
+
+
+
+
 # 🏆 Certifications
 
 - DevOps Certification – Intellipaat
@@ -272,6 +276,12 @@ Hybrid Infrastructure Platform
 - Data Analytics – NoviTech
 - Analysing & Visualising Data with Power BI – TechTip24
 - Product Management – Jobaaj Learning
+
+
+
+
+
+
 
 
 
@@ -290,6 +300,34 @@ Hybrid Infrastructure Platform
 
 
 
+## 🚀 Featured Repositories
+
+<div align="center">
+
+<a href="https://github.com/aneesh-siva/3-tier-kubernetes-project-">
+<img height="170" src="https://github-readme-stats.vercel.app/api/pin/?username=aneesh-siva&repo=3-tier-kubernetes-project-&theme=tokyonight&border_color=58A6FF&border_radius=12" />
+</a>
+
+<a href="https://github.com/aneesh-siva/monitoring-app-devops-">
+<img height="170" src="https://github-readme-stats.vercel.app/api/pin/?username=aneesh-siva&repo=monitoring-app-devops-&theme=tokyonight&border_color=58A6FF&border_radius=12" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/aneesh-siva/ansible-docker-automation">
+<img height="170" src="https://github-readme-stats.vercel.app/api/pin/?username=aneesh-siva&repo=ansible-docker-automation&theme=tokyonight&border_color=58A6FF&border_radius=12" />
+</a>
+
+<a href="https://github.com/aneesh-siva/two-tier-flask-app">
+<img height="170" src="https://github-readme-stats.vercel.app/api/pin/?username=aneesh-siva&repo=two-tier-flask-app&theme=tokyonight&border_color=58A6FF&border_radius=12" />
+</a>
+
+</div>
+
 
 
 # 🌱 Currently Exploring
@@ -300,6 +338,10 @@ Hybrid Infrastructure Platform
 - 🤖 AI for IT Operations
 - 🔐 DevSecOps Practices
 - 📊 Observability & Monitoring
+
+
+
+
 
 
 
