@@ -245,7 +245,6 @@ Hybrid Infrastructure Platform
 </td>
 </tr>
 
-</div>
 
 </table>
 
@@ -254,6 +253,8 @@ Hybrid Infrastructure Platform
 ---
 
 <br>
+
+</div>
 
 
 # 🏆 Certifications
