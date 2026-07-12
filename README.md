@@ -142,6 +142,9 @@ Hybrid Infrastructure Platform
 
 ## ☁️ Cloud
 
+<div align="center">
+
+
 <table>
 <tr>
 
@@ -154,6 +157,7 @@ Hybrid Infrastructure Platform
 </tr>
 </table>
 
+</div>
 ---
 
 ## 🐍 Programming & Scripting
