@@ -91,7 +91,7 @@ Hybrid Infrastructure Platform
 
 ## ⚙️ DevOps
 
-<table>
+<table>                                                                                     
 <tr>
 <td align="center" width="120">
 <a href="https://www.jenkins.io/">
@@ -223,6 +223,8 @@ Hybrid Infrastructure Platform
 <img src="https://skillicons.dev/icons?i=grafana" width="65"/><br>Grafana
 </a>
 </td>
+
+
 
 # 🏆 Certifications
 
