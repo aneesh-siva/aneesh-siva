@@ -13,21 +13,38 @@ Cloud & Platform Engineer Enthusiast | DevOps | Azure | AI for IT Operations
 
 # 🌐 Connect With Me
 
-<p align="center">
+## 🌐 Connect with Me
 
-<a href="https://www.linkedin.com/in/aneesh-siva-a958b4249">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="120">
+<a href="https://github.com/aneesh-siva" target="_blank">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=github" width="70" alt="GitHub"/><br>
+GitHub
 </a>
+</td>
 
+<td align="center" width="120">
+<a href="https://www.linkedin.com/in/aneesh-siva-a958b4249" target="_blank">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" width="70" alt="LinkedIn"/><br>
+LinkedIn
+</a>
+</td>
+
+<td align="center" width="120">
 <a href="mailto:aneeshshiva218@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" width="70" alt="Gmail"/><br>
+Gmail
 </a>
+</td>
 
-<a href="https://github.com/aneesh-siva">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+</tr>
+</table>
 
-</p>
+</div>
 
 ---
 
