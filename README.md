@@ -145,7 +145,7 @@ Hybrid Infrastructure Platform
 
 ## ☁️ Cloud
 
-                                            <table>
+<table>
 <tr>
 
 <td align="center" width="120">
@@ -218,11 +218,14 @@ Hybrid Infrastructure Platform
 </a>
 </td>
 
+
+
 <td align="center" width="120">
 <a href="https://grafana.com">
 <img src="https://skillicons.dev/icons?i=grafana" width="65"/><br>Grafana
 </a>
 </td>
+
 
 
 
@@ -233,6 +236,8 @@ Hybrid Infrastructure Platform
 - Data Analytics – NoviTech
 - Analysing & Visualising Data with Power BI – TechTip24
 - Product Management – Jobaaj Learning
+
+
 
 
 # 🚀 Featured Projects
