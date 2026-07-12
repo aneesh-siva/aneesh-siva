@@ -91,6 +91,9 @@ Hybrid Infrastructure Platform
 
 ## ⚙️ DevOps
 
+<div align="center">
+
+  
 <table>                                                                                     
 <tr>
 <td align="center" width="120">
@@ -138,7 +141,9 @@ Hybrid Infrastructure Platform
 <td></td>
 </table>
 
----
+</div>
+
+
 
 ## ☁️ Cloud
 
@@ -158,10 +163,13 @@ Hybrid Infrastructure Platform
 </table>
 
 </div>
----
+
 
 ## 🐍 Programming & Scripting
 
+<div align="center">
+
+  
 <table>
 <tr>
 
@@ -180,10 +188,14 @@ Hybrid Infrastructure Platform
 </tr>
 </table>
 
----
+</div>
+
 
 ## 🖥️ System Administration
 
+<div align="center">
+
+  
 <table>
 <tr>
 
@@ -202,7 +214,7 @@ Hybrid Infrastructure Platform
 </tr>
 </table>
 
----
+</div>
 
 
 ## 📈 Monitoring
