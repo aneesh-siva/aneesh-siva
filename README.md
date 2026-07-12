@@ -219,6 +219,9 @@ Hybrid Infrastructure Platform
 
 ## 📈 Monitoring
 
+<div align="center">
+
+  
 <table>
 <tr>
 
@@ -241,6 +244,8 @@ Hybrid Infrastructure Platform
 </a>
 </td>
 </tr>
+
+</div>
 
 </table>
 
@@ -273,6 +278,9 @@ Hybrid Infrastructure Platform
 | ☸️ **Enterprise 3-Tier Kubernetes Platform** | Built a production-style three-tier application on Kubernetes with monitoring, observability, and CI/CD integration. | Kubernetes • Docker • Prometheus • Grafana • Jenkins |
 | 📦 **3-Tier Application on Kubernetes (Minikube)** | Containerized and deployed a three-tier application locally using Minikube, Ingress, and Kubernetes networking. | Docker • Kubernetes • Minikube |
 | ☁️ **Azure Kubernetes Service (AKS) Deployment** | Designed and deployed a two-tier Flask & MySQL application on Azure Kubernetes Service following cloud-native DevOps practices. | Azure • AKS • Docker • Flask • MySQL |
+
+
+
 
 
 # 🌱 Currently Exploring
