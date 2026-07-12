@@ -91,95 +91,138 @@ Hybrid Infrastructure Platform
 
 ## ⚙️ DevOps
 
-<p align="left">
-<a href="https://www.jenkins.io/"><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/></a>
-<a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/></a>
-<a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white"/></a>
-<a href="https://about.gitlab.com/"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=GitLab&logoColor=white"/></a>
-<a href="https://www.redhat.com/en/technologies/cloud-computing/openshift"><img src="https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=RedHatOpenShift&logoColor=white"/></a>
-<a href="https://www.ansible.com/"><img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=Ansible&logoColor=white"/></a>
-<a href="https://www.terraform.io/"><img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=Terraform&logoColor=white"/></a>
-</p>
+<table>
+<tr>
+<td align="center" width="120">
+<a href="https://www.jenkins.io/">
+<img src="https://skillicons.dev/icons?i=jenkins" width="65"/><br>Jenkins
+</a>
+</td>
+
+<td align="center" width="120">
+<a href="https://www.docker.com/">
+<img src="https://skillicons.dev/icons?i=docker" width="65"/><br>Docker
+</a>
+</td>
+
+<td align="center" width="120">
+<a href="https://kubernetes.io/">
+<img src="https://skillicons.dev/icons?i=kubernetes" width="65"/><br>Kubernetes
+</a>
+</td>
+
+<td align="center" width="120">
+<a href="https://about.gitlab.com/">
+<img src="https://skillicons.dev/icons?i=gitlab" width="65"/><br>GitLab
+</a>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<a href="https://www.redhat.com/en/technologies/cloud-computing/openshift">
+<img src="https://cdn.simpleicons.org/redhatopenshift/EE0000" width="65"/><br>OpenShift
+</a>
+</td>
+
+<td align="center">
+<a href="https://www.ansible.com/">
+<img src="https://skillicons.dev/icons?i=ansible" width="65"/><br>Ansible
+</a>
+</td>
+
+<td align="center">
+<a href="https://www.terraform.io/">
+<img src="https://skillicons.dev/icons?i=terraform" width="65"/><br>Terraform
+</a>
+</td>
+
+<td></td>
+</tr>
+</table>
 
 ---
 
 ## ☁️ Cloud
 
-<p align="left">
+<table>
+<tr>
+
+<td align="center" width="120">
 <a href="https://azure.microsoft.com/">
-<img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=MicrosoftAzure&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=azure" width="65"/><br>Azure
 </a>
-</p>
+</td>
+
+</tr>
+</table>
 
 ---
 
 ## 🐍 Programming & Scripting
 
-<p align="left">
-<a href="https://www.python.org/">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
-</a>
+<table>
+<tr>
 
-<a href="https://www.gnu.org/software/bash/">
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white"/>
+<td align="center" width="120">
+<a href="https://python.org">
+<img src="https://skillicons.dev/icons?i=python" width="65"/><br>Python
 </a>
-</p>
+</td>
+
+<td align="center" width="120">
+<a href="https://www.gnu.org/software/bash/">
+<img src="https://skillicons.dev/icons?i=bash" width="65"/><br>Bash
+</a>
+</td>
+
+</tr>
+</table>
 
 ---
 
 ## 🖥️ System Administration
 
-<p align="left">
+<table>
+<tr>
 
-<a href="https://www.ibm.com/products/websphere-application-server">
-<img src="https://img.shields.io/badge/IBM%20WebSphere-052FAD?style=for-the-badge&logo=IBM&logoColor=white"/>
-</a>
-
+<td align="center" width="120">
 <a href="https://www.akamai.com/">
-<img src="https://img.shields.io/badge/Akamai-0096D6?style=for-the-badge&logo=Akamai&logoColor=white"/>
+<img src="https://cdn.simpleicons.org/akamai/0096D6" width="65"/><br>Akamai
 </a>
+</td>
 
-<a href="https://www.linux.org/">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black"/>
+<td align="center" width="120">
+<a href="https://linux.org">
+<img src="https://skillicons.dev/icons?i=linux" width="65"/><br>Linux
 </a>
+</td>
 
-</p>
+</tr>
+</table>
 
 ---
 
-## 🤖 AI Tools
-
-<p align="left">
-
-<a href="https://lovable.dev/">
-<img src="https://img.shields.io/badge/Lovable-FF4D5A?style=for-the-badge"/>
-</a>
-
-<a href="https://huggingface.co/">
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=HuggingFace&logoColor=black"/>
-</a>
-
-</p>
-
----
 
 ## 📈 Monitoring
 
-<p align="left">
-
-<a href="https://www.dynatrace.com/">
-<img src="https://img.shields.io/badge/Dynatrace-1496FF?style=for-the-badge&logo=Dynatrace&logoColor=white"/>
+<td align="center" width="120">
+<a href="https://dynatrace.com">
+<img src="https://cdn.simpleicons.org/dynatrace/1496FF" width="65"/><br>Dynatrace
 </a>
+</td>
 
-<a href="https://prometheus.io/">
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white"/>
+<td align="center" width="120">
+<a href="https://prometheus.io">
+<img src="https://skillicons.dev/icons?i=prometheus" width="65"/><br>Prometheus
 </a>
+</td>
 
-<a href="https://grafana.com/">
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=Grafana&logoColor=white"/>
+<td align="center" width="120">
+<a href="https://grafana.com">
+<img src="https://skillicons.dev/icons?i=grafana" width="65"/><br>Grafana
 </a>
-
-</p>
+</td>
 
 # 🏆 Certifications
 
