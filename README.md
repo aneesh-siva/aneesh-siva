@@ -145,7 +145,7 @@ Hybrid Infrastructure Platform
 
 ## ☁️ Cloud
 
-<table>
+                                            <table>
 <tr>
 
 <td align="center" width="120">
