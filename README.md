@@ -13,7 +13,7 @@ Cloud & Platform Engineer Enthusiast | DevOps | Azure | AI for IT Operations
 
 
 
-## 🌐 Connect with Me
+## Connect with Me
 
 <div align="center">
 
@@ -48,11 +48,11 @@ Gmail
 
 ---
 
-# 👨‍💻 About Me
+# About Me
 
-🚀 Cloud & Platform Engineering Enthusiast passionate about building scalable, reliable, and automated infrastructure.
+Cloud & Platform Engineering Enthusiast passionate about building scalable, reliable, and automated infrastructure.
 
-💼 Currently working in **Enterprise IT Infrastructure**, gaining hands-on experience with cloud technologies, infrastructure automation, monitoring, and platform operations.
+Currently working in **Enterprise IT Infrastructure**, gaining hands-on experience with cloud technologies, infrastructure automation, monitoring, and platform operations.
 
 ☁️ Interested in:
 
@@ -63,15 +63,15 @@ Gmail
 - Infrastructure Automation
 - AI for IT Operations
 
-🎯 Goal:
+Goal:
 
 Become a Cloud Platform Engineer capable of designing and operating secure, scalable enterprise infrastructure.
 
 ---
 
-# 💼 Professional Experience
+# Professional Experience
 
-### 🏢 Enterprise IT Infrastructure
+### Enterprise IT Infrastructure
 
 **Role**
 
@@ -93,11 +93,10 @@ Hybrid Infrastructure Platform
 
 ---
 
-# 💻 Tech Stack
+# Tech Stack
 
-# 💻 Tech Stack
 
-## ⚙️ DevOps
+## DevOps
 
 <div align="center">
 
@@ -153,7 +152,7 @@ Hybrid Infrastructure Platform
 
 
 
-## ☁️ Cloud
+## Cloud
 
 <div align="center">
 
@@ -173,7 +172,7 @@ Hybrid Infrastructure Platform
 </div>
 
 
-## 🐍 Programming & Scripting
+## Programming & Scripting
 
 <div align="center">
 
@@ -199,7 +198,7 @@ Hybrid Infrastructure Platform
 </div>
 
 
-## 🖥️ System Administration
+## System Administration
 
 <div align="center">
 
@@ -225,7 +224,7 @@ Hybrid Infrastructure Platform
 </div>
 
 
-## 📈 Monitoring
+## Monitoring
 
 <div align="center">
 
@@ -267,7 +266,7 @@ Hybrid Infrastructure Platform
 
 ---
 
-# 🏆 Certifications
+# Certifications
 
 - DevOps Certification – Intellipaat
 - IBM WebSphere Network Deployment 8.5.5 Network Administration
@@ -295,7 +294,7 @@ Hybrid Infrastructure Platform
 
 
 
-# 🚀 Featured Projects
+# Featured Projects
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
@@ -320,7 +319,7 @@ Hybrid Infrastructure Platform
 ---
 
 
-## 🚀 Featured Repositories
+## Featured Repositories
 
 1. https://github.com/aneesh-siva/monitoring-app-devops-
 2. https://github.com/aneesh-siva/ansible-docker-automation
@@ -341,14 +340,14 @@ Hybrid Infrastructure Platform
 ---
 
 
-# 🌱 Currently Exploring
+# Currently Exploring
 
-- ☁️ Cloud Platform Engineering
-- 🚀 Infrastructure Automation
-- ☸️ Kubernetes Ecosystem
-- 🤖 AI for IT Operations
-- 🔐 DevSecOps Practices
-- 📊 Observability & Monitoring
+-  Cloud Platform Engineering
+-  Infrastructure Automation
+-  Kubernetes Ecosystem
+-  AI for IT Operations
+-  DevSecOps Practices
+-  Observability & Monitoring
 
 
 
