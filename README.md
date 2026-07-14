@@ -54,7 +54,7 @@ Cloud & Platform Engineering Enthusiast passionate about building scalable, reli
 
 Currently working in **Enterprise IT Infrastructure**, gaining hands-on experience with cloud technologies, infrastructure automation, monitoring, and platform operations.
 
-☁️ Interested in:
+Interested in:
 
 - Cloud Computing
 - Platform Engineering
@@ -298,11 +298,11 @@ Hybrid Infrastructure Platform
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| 🚀 **End-to-End DevOps CI/CD Pipeline** | Designed and implemented a complete CI/CD pipeline with infrastructure provisioning, containerization, deployment automation, and orchestration. | Jenkins • Docker • Kubernetes • Terraform |
-| 🤖 **DevOps Automation with Ansible & Docker** | Automated application deployment and server configuration using Ansible playbooks with Docker-based application deployment. | Ansible • Docker • Linux |
-| ☸️ **Enterprise 3-Tier Kubernetes Platform** | Built a production-style three-tier application on Kubernetes with monitoring, observability, and CI/CD integration. | Kubernetes • Docker • Prometheus • Grafana • Jenkins |
-| 📦 **3-Tier Application on Kubernetes (Minikube)** | Containerized and deployed a three-tier application locally using Minikube, Ingress, and Kubernetes networking. | Docker • Kubernetes • Minikube |
-| ☁️ **Azure Kubernetes Service (AKS) Deployment** | Designed and deployed a two-tier Flask & MySQL application on Azure Kubernetes Service following cloud-native DevOps practices. | Azure • AKS • Docker • Flask • MySQL |
+|  **End-to-End DevOps CI/CD Pipeline** | Designed and implemented a complete CI/CD pipeline with infrastructure provisioning, containerization, deployment automation, and orchestration. | Jenkins • Docker • Kubernetes • Terraform |
+|  **DevOps Automation with Ansible & Docker** | Automated application deployment and server configuration using Ansible playbooks with Docker-based application deployment. | Ansible • Docker • Linux |
+|  **Enterprise 3-Tier Kubernetes Platform** | Built a production-style three-tier application on Kubernetes with monitoring, observability, and CI/CD integration. | Kubernetes • Docker • Prometheus • Grafana • Jenkins |
+|  **3-Tier Application on Kubernetes (Minikube)** | Containerized and deployed a three-tier application locally using Minikube, Ingress, and Kubernetes networking. | Docker • Kubernetes • Minikube |
+|  **Azure Kubernetes Service (AKS) Deployment** | Designed and deployed a two-tier Flask & MySQL application on Azure Kubernetes Service following cloud-native DevOps practices. | Azure • AKS • Docker • Flask • MySQL |
 
 
 
