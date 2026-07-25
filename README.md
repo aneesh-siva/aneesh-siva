@@ -257,7 +257,7 @@ Hybrid Infrastructure Platform
 
 </div>
 
-## 💻 Coding Profiles
+## Coding Profiles
 
 <div align="center">
 
