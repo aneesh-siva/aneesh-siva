@@ -268,11 +268,11 @@ Hybrid Infrastructure Platform
 
 # Certifications
 
-- DevOps Certification – Intellipaat
-- IBM WebSphere Network Deployment 8.5.5 Network Administration
-- Data Analytics – NoviTech
-- Analysing & Visualising Data with Power BI – TechTip24
-- Product Management – Jobaaj Learning
+- DevOps Certification – Intellipaat :- https://intellipaat.com/academy/certificate-link/?Yz0xNjU1JnU9MzMxMDM3JmV4dD0x
+- IBM WebSphere Network Deployment 8.5.5 Network Administration :- https://www.udemy.com/certificate/UC-5e72c5ea-79b1-4b44-b7d6-ce4e895c0516/
+- Data Analytics – NoviTech 
+- Analysing & Visualising Data with Power BI – TechTip24 :- https://verify.techtip24.com/profile?credId=66b8b2aff2304a7f529d2163
+- Product Management – Jobaaj Learning :- https://cdn.nishtyainfotech.com/learnings/certificates/certificate-231993-94-0.jpeg
 
 </table>
 
