@@ -255,6 +255,27 @@ Hybrid Infrastructure Platform
 
 </table>
 
+</div>
+
+## 💻 Coding Profiles
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="120">
+<a href="https://www.hackerrank.com/YOUR_USERNAME" target="_blank">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=hackerrank" width="70" alt="HackerRank"/><br>
+HackerRank
+</a>
+</td>
+
+</tr>
+</table>
+
+</div>
+
 <br>
 
 ---
