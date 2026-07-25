@@ -265,7 +265,7 @@ Hybrid Infrastructure Platform
 <tr>
 
 <td align="center" width="120">
-<a href="https://www.hackerrank.com/YOUR_USERNAME" target="_blank">
+<a href="https://www.hackerrank.com/profile/aneeshshiva218" target="_blank">
 <img src="https://go-skill-icons.vercel.app/api/icons?i=hackerrank" width="70" alt="HackerRank"/><br>
 HackerRank
 </a>
